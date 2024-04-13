@@ -10,7 +10,7 @@ To get started with this project, run
 git clone https://github.com/Mustafabalkaya/Creating-a-Registration-System-with-OTP-Verification-in-Node.js.git
 ```
 
-and copy the .env.example variables present in the server folder into a separate .env file, fill them out & and then Navigate to the server folder:
+and copy the .env.example variables present in the server folder into a separate .env file, fill them out & and then Navigate to the server folder: 
 ```bash
 MAIL_HOST=smtp.gmail.com
 MAIL_PORT=465
